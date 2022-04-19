@@ -1,2 +1,2 @@
 # Career-Dendrogram
-This is a sample question code.
+This is a sample questions code for Career Dendogram project.
